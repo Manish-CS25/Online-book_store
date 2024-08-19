@@ -1,0 +1,146 @@
+[
+    {
+        "id": 1,
+        "name": "story book",
+        "title": "Story Book",
+        "price": 0,
+        "category": "Free",
+        "image": "cover.jpg"
+    },
+    {
+        "id": 2,
+        "name": "novel",
+        "title": "Novel",
+        "price": 9.99,
+        "category": "Fiction",
+        "image": "cover.jpg"
+    },
+    {
+        "id": 3,
+        "name": "cookbook",
+        "title": "Cookbook",
+        "price": 14.99,
+        "category": "Cooking",
+        "image": "cover.jpg"
+    },
+    {
+        "id": 4,
+        "name": "self-help",
+        "title": "Self-Help",
+        "price": 7.99,
+        "category": "Motivation",
+        "image": "cover.jpg"
+    },
+    {
+        "id": 5,
+        "name": "mystery",
+        "title": "Mystery",
+        "price": 12.99,
+        "category": "Fiction",
+        "image": "cover.jpg"
+    },
+    {
+        "id": 6,
+        "name": "biography",
+        "title": "Biography",
+        "price": 11.99,
+        "category": "Non-Fiction",
+        "image": "cover.jpg"
+    },
+    {
+        "id": 7,
+        "name": "poetry",
+        "title": "Poetry",
+        "price": 8.99,
+        "category": "Literature",
+        "image": "cover.jpg"
+    },
+    {
+        "id": 8,
+        "name": "science",
+        "title": "Science",
+        "price": 15.99,
+        "category": "Education",
+        "image": "cover.jpg"
+    },
+    {
+        "id": 9,
+        "name": "history",
+        "title": "History",
+        "price": 10.99,
+        "category": "Non-Fiction",
+        "image": "cover.jpg"
+    },
+    {
+        "id": 10,
+        "name": "fantasy",
+        "title": "Fantasy",
+        "price": 13.99,
+        "category": "Fiction",
+        "image": "cover.jpg"
+    },
+    {
+        "id": 11,
+        "name": "children",
+        "title": "Children",
+        "price": 0,
+        "category": "Free",
+        "image": "cover.jpg"
+    },
+    {
+        "id": 12,
+        "name": "romance",
+        "title": "Romance",
+        "price": 0,
+        "category": "Free",
+        "image": "cover.jpg"
+    },
+    {
+        "id": 13,
+        "name": "thriller",
+        "title": "Thriller",
+        "price": 0,
+        "category": "Free",
+        "image": "cover.jpg"
+    },
+    {
+        "id": 14,
+        "name": "horror",
+        "title": "Horror",
+        "price": 0,
+        "category": "Free",
+        "image": "cover.jpg"
+    },
+    {
+        "id": 15,
+        "name": "science-fiction",
+        "title": "Science Fiction",
+        "price": 0,
+        "category": "Free",
+        "image": "cover.jpg"
+    },
+    {
+        "id": 16,
+        "name": "drama",
+        "title": "Drama",
+        "price": 0,
+        "category": "Free",
+        "image": "cover.jpg"
+    },
+    {
+        "id": 17,
+        "name": "comedy",
+        "title": "Comedy",
+        "price": 0,
+        "category": "Free",
+        "image": "cover.jpg"
+    },
+    {
+        "id": 18,
+        "name": "action",
+        "title": "Action",
+        "price": 0,
+        "category": "Free",
+        "image": "cover.jpg"
+    }
+]

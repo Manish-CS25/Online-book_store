@@ -1,5 +1,5 @@
 import React from 'react'
-import book from '../../public/book.jpg';
+import book from '/book.jpg';
 
 function Banner() {
     return (
