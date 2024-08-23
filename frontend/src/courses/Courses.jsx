@@ -17,4 +17,4 @@ function Courses() {
   )
 }
 
-export default Course
+export default Courses

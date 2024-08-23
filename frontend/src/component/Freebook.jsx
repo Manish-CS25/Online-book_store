@@ -2,7 +2,7 @@ import React from 'react'
 import list from "../assets/list.json";
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
-import Cards from './card';
+import Cards from './Cards';
 
 import Slider from "react-slick";
 

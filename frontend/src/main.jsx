@@ -6,7 +6,8 @@ import { BrowserRouter } from 'react-router-dom'
 // render(<App />, document.getElementById('app'))
 render(
     <BrowserRouter>
-      <App />
+    <div className="dark:bg-slate-900 dark:text-white"><App /></div>
+      
     </BrowserRouter>,
     document.getElementById('app')
   )
