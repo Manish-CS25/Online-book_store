@@ -7,7 +7,7 @@ function Banner() {
             <div className="max-w-screen-2xl container mx-auto md:px-20 px-4 flex flex-col md:flex-row">
                 <div className='w-full order-2 md:order-2 md:w-1/2 mt-12 md:mt-32'>
                     <div className='space-y-12'>
-                        <h1 className='text-4xl font-bold'>Hello, Welcome here to learn something <span className='text-pink-700'>New Everyday!!!</span> </h1>
+                        <h1 className='text-4xl font-bold'>Hello, Welcome here to learn something <span className='text-pink-500'>New Everyday!!!</span> </h1>
                         <p className='text-xl'>Our bookstore is a friendly place for people who love books. We have many different kinds of books, from old classics to new bestsellers. Our helpful staff and cozy atmosphere make it easy to find your next favorite book.</p>
                         <label className="input input-bordered flex items-center gap-2">
                         <svg
