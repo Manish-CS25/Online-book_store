@@ -48,7 +48,7 @@ function Login() {
               />
               {errors.email && (
                 <p role="alert" className="text-sm text-red-500">
-                  {errors.email.message}
+                  {errors.email.message}      
                 </p>
               )}
               <br />
