@@ -1,9 +1,14 @@
 import express from 'express'
 import dotenv from 'dotenv' 
 import mongoose from 'mongoose' 
-const app = express()
 import bookRoutes from './routes/book_routes.js'
+import userRoutes from './routes/user_route.js'
 import cors from 'cors'
+
+const app = express()
+
+
+
 
 dotenv.config()
 
@@ -24,8 +29,10 @@ try {
     }
  
 app.use(cors())
+app.use(express.json())
 
 app.use('/books', bookRoutes)
+app.use('/user', userRoutes)
 
 
 app.get('/', (req, res) => {
